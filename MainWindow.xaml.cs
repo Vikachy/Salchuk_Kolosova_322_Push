@@ -29,6 +29,6 @@ namespace Salchuk_Kolosova_322_Push
         {
             MessageBox.Show("Студент добавлен!");
         }
-
+        //fffffjdjsdjGHHHHHHhhhDDD//
     }
 }
