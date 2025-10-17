@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Нажми меня" Width="100" Height="30"/>
+        <Button Name="AddStudentButton" Content="Добавить студента" Click="Button_Click" Width="100" Height="30" Margin="350,249,350,155"/>
     </Grid>
 </Window>
