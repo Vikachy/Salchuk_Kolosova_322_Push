@@ -25,10 +25,6 @@ namespace Salchuk_Kolosova_322_Push
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Студент добавлен!");
-        }
-
+      
     }
 }
